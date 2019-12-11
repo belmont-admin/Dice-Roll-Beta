@@ -83,4 +83,4 @@ basic.showLeds(`
 let number = 0
 number = 0
 number = 0
-basic.showString("?")
+basic.showString("+")
